@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Spring MVC Form Handling</title>
+</head>
+<body>
+
+<h2>Submitted Student Information</h2>
+   <table>
+    <tr>
+        <td>Name</td>
+        <td>$username</td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td>$password</td>
+    </tr>
+</table>  
+</body>
+</html>

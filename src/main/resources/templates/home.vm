@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+	<span>Time:</span>
+	<ul>
+		<li>From controller: $time</li>
+		<li>From velocity: $dateTool</li>
+	</ul>
+	<span>Message: $message</span>
+	
+	
+	<form action="/login" method="post">
+		<input type="text" name="username" />
+		<input type="passowrd" name="password" />
+		
+		<input type="submit" value="Gooo" />
+	</form>
+</body>
+
+</html>
